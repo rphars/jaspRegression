@@ -2906,22 +2906,30 @@ msgid ""
 "this p-value is at most 2.46 times more likely to occur under H1 than under "
 "H0."
 msgstr ""
+"Zeigt das maximale Verhältnis zwischen der Wahrscheinlichkeit des erhaltenen "
+"p-Wertes unter H1 und der Wahrscheinlichkeit des erhaltenen p-Wertes unter "
+"H0. Wenn zum Beispiel der zweiseitige p-Wert 0,05 beträgt, ist das Vovk-"
+"Sellke-MPV gleich 2,46, was bedeutet, dass dieser p-Wert höchstens 2,46 Mal "
+"wahrscheinlicher ist, dass er unter H1 als unter H0 auftritt."
 
 msgctxt "Correlation|"
 msgid "The covariance between each pair of variables."
-msgstr ""
+msgstr "Die Kovarianz zwischen jedem Variablenpaar."
 
 msgctxt "Correlation|"
 msgid ""
 "One-sided alternative hypothesis that the population correlation is less "
 "than 0."
 msgstr ""
+"Einseitige Alternativhypothese, dass die Populationskorrelation kleiner als "
+"0 ist."
 
 msgctxt "Correlation|"
 msgid ""
 "Displays the specified confidence interval around the regression line on the "
 "plot."
 msgstr ""
+"Zeigt das angegebene Konfidenzintervall um die Regressionslinie im Diagramm."
 
 msgctxt "Correlation|"
 msgid ""
@@ -2931,11 +2939,11 @@ msgstr ""
 
 msgctxt "Correlation|"
 msgid "Means and standard deviations."
-msgstr ""
+msgstr "Mittelwerte und Standardabweichungen."
 
 msgctxt "Correlation|"
 msgid "Cross-product deviations and covariances."
-msgstr ""
+msgstr "Kreuzprodukt-Devianzen und -Kovarianzen."
 
 msgctxt "Correlation|"
 msgid "Uses only complete cases across all variables."
@@ -3205,11 +3213,13 @@ msgid ""
 "then plotting the residuals against each other."
 msgstr ""
 
+#, fuzzy
 msgctxt "RegressionLinear|"
 msgid ""
 "Displays the specified confidence interval around the regression line on the "
 "plot."
 msgstr ""
+"Zeigt das angegebene Konfidenzintervall um die Regressionslinie im Diagramm."
 
 msgctxt "RegressionLinear|"
 msgid ""
@@ -3369,6 +3379,11 @@ msgid ""
 "this p-value is at most 2.46 times more likely to occur under H1 than under "
 "H0."
 msgstr ""
+"Zeigt das maximale Verhältnis zwischen der Wahrscheinlichkeit des erhaltenen "
+"p-Wertes unter H1 und der Wahrscheinlichkeit des erhaltenen p-Wertes unter "
+"H0. Wenn zum Beispiel der zweiseitige p-Wert 0,05 beträgt, ist das Vovk-"
+"Sellke-MPV gleich 2,46, was bedeutet, dass dieser p-Wert höchstens 2,46 Mal "
+"wahrscheinlicher ist, dass er unter H1 als unter H0 auftritt."
 
 msgctxt "RegressionLogistic|"
 msgid ""
@@ -3387,11 +3402,13 @@ msgid ""
 "residual mean squares."
 msgstr ""
 
+#, fuzzy
 msgctxt "RegressionLogistic|"
 msgid ""
 "Displays the specified confidence interval around the regression line on the "
 "plot."
 msgstr ""
+"Zeigt das angegebene Konfidenzintervall um die Regressionslinie im Diagramm."
 
 msgctxt "RegressionLogistic|"
 msgid "Displays individual data points on the plot."
@@ -3629,8 +3646,10 @@ msgid ""
 "the expected range of residuals under normality; points outside the band "
 "suggest deviations from normality."
 msgstr ""
+"Zeigt Q-Q-Diagramm der standardisierten Residuen. Das Konfidenzband zeigt "
+"die erwartete Spannweite der Residuen unter Normalitätsannahme; Punkte "
+"außerhalb des Bandes suggerieren Abweichungen von Normalität."
 
-#, fuzzy
 msgctxt "RegressionLinear|"
 msgid "Confidence interval"
 msgstr "Konfidenzintervall"
@@ -3682,4 +3701,77 @@ msgctxt "RegressionLogistic|"
 msgid ""
 "Categorical predictor variable(s). Ordinal variables here are treated as "
 "categorical predictor variables, thus, the ordinal information is ignored."
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Response Optimizer"
+msgstr ""
+
+#, fuzzy
+msgctxt "RegressionLinear|"
+msgid "Output"
+msgstr "Ausgabe"
+
+msgctxt "RegressionLinear|"
+msgid "Show optimal solution"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Show optimization plot"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Set input parameters manually"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Predictors"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Value"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Bounds and Target"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Set bounds manually"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Lower bound"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Upper bound"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Set target manually"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Target"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Optimization Goal"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Goal"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Maximize"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Minimize"
+msgstr ""
+
+msgctxt "RegressionLinear|"
+msgid "Weight"
 msgstr ""
