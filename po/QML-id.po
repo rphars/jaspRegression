@@ -13,7 +13,7 @@ msgstr "Regresi"
 
 msgctxt "Description|"
 msgid "Classical"
-msgstr "Klasik"
+msgstr "Klasikal"
 
 msgctxt "Description|"
 msgid "Correlation"
@@ -29,7 +29,7 @@ msgstr "Regresi Logistik"
 
 msgctxt "Description|"
 msgid "Bayesian"
-msgstr "Bayesian"
+msgstr "Bayes"
 
 msgctxt "Description|"
 msgid "Bayesian Correlation"
@@ -258,7 +258,7 @@ msgstr "Posterior pada H₁"
 
 msgctxt "CorrelationBayesian|"
 msgid "Prior"
-msgstr "Prior"
+msgstr "Priori"
 
 msgctxt "CorrelationBayesian|"
 msgid "Stretched beta prior width"
@@ -641,10 +641,9 @@ msgctxt "RegressionLinearBayesian|"
 msgid "Advanced Options"
 msgstr ""
 
-#, fuzzy
 msgctxt "RegressionLinearBayesian|"
 msgid "Prior"
-msgstr "Prior"
+msgstr "Priori"
 
 msgctxt "RegressionLinearBayesian|"
 msgid "AIC"
@@ -852,7 +851,6 @@ msgctxt "RegressionLogistic|"
 msgid "Confidence intervals"
 msgstr "Interval kepercayaan"
 
-#, fuzzy
 msgctxt "RegressionLogistic|"
 msgid "Interval"
 msgstr "Interval"
@@ -1434,10 +1432,9 @@ msgctxt "RegressionLogisticBayesian|"
 msgid "Advanced Options"
 msgstr ""
 
-#, fuzzy
 msgctxt "RegressionLogisticBayesian|"
 msgid "Prior"
-msgstr "Prior"
+msgstr "Priori"
 
 msgctxt "RegressionLogisticBayesian|"
 msgid "AIC"
