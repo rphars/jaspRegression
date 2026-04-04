@@ -2283,7 +2283,7 @@ msgstr ""
 
 msgctxt "RegressionLinearBayesian|"
 msgid "Shows a heatmap of the log posterior odds against the model rank."
-msgstr ""
+msgstr "Zeigt eine Heatmap der Log-Posterior-Chancen gegenüber dem Modellrang."
 
 msgctxt "RegressionLinearBayesian|"
 msgid ""
@@ -2594,7 +2594,7 @@ msgstr ""
 
 msgctxt "RegressionLogisticBayesian|"
 msgid "Shows a heatmap of the log posterior odds against the model rank."
-msgstr ""
+msgstr "Zeigt eine Heatmap der Log-Posterior-Chancen gegenüber dem Modellrang."
 
 msgctxt "RegressionLogisticBayesian|"
 msgid ""
